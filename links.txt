@@ -1,1 +1,5 @@
-https://www.figma.com/file/7nybdg2DdX3IGF1aQmUEPL/Foodies?node-id=147%3A1743&t=8P5X1TZTJg8ludpY-1
+Mockup:
+      https://www.figma.com/file/7nybdg2DdX3IGF1aQmUEPL/Foodies?node-id=147%3A1743&t=8P5X1TZTJg8ludpY-1
+
+Prototype:
+https://www.figma.com/proto/7nybdg2DdX3IGF1aQmUEPL/Foodies?node-id=304%3A1439&scaling=min-zoom&page-id=1%3A3
